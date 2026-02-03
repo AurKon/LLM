@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-chroma
+langchain-openai
+langchain-ollama
+langchain-huggingface
+chromadb
+pypdf
+docx2txt
+beautifulsoup4
+python-dotenv
+sentence-transformers
